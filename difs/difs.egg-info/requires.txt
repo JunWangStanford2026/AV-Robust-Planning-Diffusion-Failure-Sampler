@@ -1,0 +1,7 @@
+torch
+numpy
+einops
+accelerate
+ema_pytorch>=0.4.2
+wandb
+tqdm
