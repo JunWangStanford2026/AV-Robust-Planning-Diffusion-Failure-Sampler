@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: difs
+Version: 0.1.0
+Summary: Diffusion-based Failure Sampling
+Home-page: https://github.com/sisl/DiFS
+Author: Harrison Delecki
+Author-email: hdelecki@stanford.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: einops
+Requires-Dist: accelerate
+Requires-Dist: ema_pytorch>=0.4.2
+Requires-Dist: wandb
+Requires-Dist: tqdm
